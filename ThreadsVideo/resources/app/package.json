@@ -1,0 +1,7 @@
+{
+  "name": "threads-video",
+  "version": "1.0.0",
+  "description": "Công cụ tạo video từ bài viết Threads",
+  "main": "electron-main.js",
+  "type": "module"
+}
